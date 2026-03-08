@@ -94,6 +94,7 @@ static std::string sample_text(const std::string &prompt, int maxTokens) {
 
     tokens.resize((size_t)n_prompt);
 
+    // llama_kv_cache_clear is deprecated/removed in some versions, but let's check what's available
     llama_kv_cache_clear(g_ctx);
 
     llama_batch batch = llama_batch_get_one(tokens.data(), n_prompt);
