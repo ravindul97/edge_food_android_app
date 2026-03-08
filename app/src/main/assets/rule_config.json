@@ -1,0 +1,22 @@
+{
+  "high_sugar_terms": [
+    "sugar",
+    "corn syrup",
+    "glucose syrup",
+    "fructose",
+    "dextrose",
+    "white flour"
+  ],
+  "high_sodium_terms": [
+    "salt",
+    "sodium",
+    "msg",
+    "monosodium glutamate",
+    "sodium benzoate"
+  ],
+  "high_sat_fat_terms": [
+    "palm oil",
+    "hydrogenated oil",
+    "shortening"
+  ]
+}

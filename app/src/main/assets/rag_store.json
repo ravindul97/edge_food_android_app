@@ -1,0 +1,56 @@
+[
+  {
+    "id": "doc_001",
+    "title": "Added sugar caution",
+    "text": "Foods with added sugar may be less suitable for people trying to control blood sugar, especially when eaten often or in large portions.",
+    "tags": [
+      "diabetes",
+      "sugar"
+    ]
+  },
+  {
+    "id": "doc_002",
+    "title": "High sodium caution",
+    "text": "Foods high in sodium may be less suitable for people with high blood pressure.",
+    "tags": [
+      "hypertension",
+      "salt",
+      "sodium"
+    ]
+  },
+  {
+    "id": "doc_003",
+    "title": "Peanut allergy",
+    "text": "If a person has a peanut allergy, any food containing peanut should be treated as unsafe.",
+    "tags": [
+      "allergy",
+      "peanut"
+    ]
+  },
+  {
+    "id": "doc_004",
+    "title": "Milk allergy",
+    "text": "If a person has a milk allergy, foods containing milk ingredients may be unsafe.",
+    "tags": [
+      "allergy",
+      "milk"
+    ]
+  },
+  {
+    "id": "doc_005",
+    "title": "Saturated fat caution",
+    "text": "Foods high in saturated fat may be less suitable for people trying to reduce cholesterol risk.",
+    "tags": [
+      "cholesterol",
+      "fat"
+    ]
+  },
+  {
+    "id": "doc_006",
+    "title": "Whole food preference",
+    "text": "Minimally processed foods with simpler ingredient lists are often a better default than foods high in sugar, salt, and refined fats.",
+    "tags": [
+      "general"
+    ]
+  }
+]
